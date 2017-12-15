@@ -1,0 +1,16 @@
+{
+  "name": "sf-oauth2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsforce": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anupam shrivastava",
+  "license": "ISC"
+}
