@@ -1,4 +1,4 @@
-# MyRepo
+# node-sf-oauth-rest
 
 Welcome to MyRepo. This repository will help you to implement Salesforce OAuth2 with your NodeJS application. This repo uses JSForce, Express library
 for authentication. Here I have provided the code to call your APEX web service controller into the Node and fetch data from your Salesforce object.
